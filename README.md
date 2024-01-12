@@ -1,7 +1,10 @@
-<h1>Hi, I'm Felice! <br/>
+<h1>Hi,[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Felice! <br/>
+==============================================================================================================================
   <a href="https://github.com/DL14m">Programmer</a>, 
   <a href="">Cybersecurity Student</a> 
 </h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Felice
+==============================================================================================================================
 
 <h2> 👨‍💻 Software Development Projects:</h2>
 
