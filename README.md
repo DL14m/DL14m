@@ -1,13 +1,12 @@
-<div align="left">
+<div align="center">
   <h1>
     
   Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Felice!
-  [![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
   <br/>
-      <a href="https://github.com/DL14m">Programmer</a>, 
+      <a href="https://github.com/DL14m">Professional Developer</a> and 
       <a href="">Cybersecurity Student</a> 
-      
   </h1>
+</div>
 
   <h2> 👨‍💻 Software Development Projects:</h2>
   
@@ -55,8 +54,6 @@
   [twitter]: https://twitter.com/joshmadakor
   [instagram]: https://www.instagram.com/joshmadakor/
   [linkedin]: https://linkedin.com/in/joshmadakor
-  
-</div>
 
 
 <!--
