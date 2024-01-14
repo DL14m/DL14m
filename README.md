@@ -2,6 +2,7 @@
   <h1>
     
   Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Felice!
+  [![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
   <br/>
       <a href="https://github.com/DL14m">Programmer</a>, 
       <a href="">Cybersecurity Student</a> 
@@ -47,16 +48,14 @@
   
   <h2> ✉️ Connect with me:</h2>
   
-  [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-  [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-  [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter/1D9BF0" />][twitter]
+  [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/E4405F" />][instagram]
+  [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />][linkedin]
   
   [twitter]: https://twitter.com/joshmadakor
-  [youtube]: https://www.youtube.com/c/joshmadakor
   [instagram]: https://www.instagram.com/joshmadakor/
   [linkedin]: https://linkedin.com/in/joshmadakor
-
+  
 </div>
 
 
