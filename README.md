@@ -3,7 +3,7 @@
     
   Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Felice!
   <br/>
-      <a href="https://github.com/DL14m">Professional Developer</a> and 
+      <a href="https://github.com/DL14m">Developer</a> and 
       <a href="">Cybersecurity Student</a> 
   </h1>
 </div>
@@ -36,7 +36,8 @@
   
   <h2> 🎯 Certifications:</h2>
   
-  - [IT Specialist - Javascript](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [IT Specialist - Javascript] (link)
+  - [IT Specialist - Javascript] (link)
 
   <div align="center">
   
