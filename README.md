@@ -37,7 +37,7 @@
   <h2> 🎯 Certifications:</h2>
   
   - [IT Specialist - Javascript] (link)
-  - [IT Specialist - Javascript] (link)
+  - [IT Specialist - Java] (link)
 
   <div align="center">
   
